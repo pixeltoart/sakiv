@@ -1,4 +1,4 @@
-@import url("video-js.css");
+@import("video-js.css");
 @import url('https://fonts.googleapis.com/css?family=Rambla:400i');
 body {
     font-family: "myriad pro", tahoma, verdana, arial, sans-serif;
